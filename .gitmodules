@@ -1,0 +1,3 @@
+[submodule "hadamardfunctionfilter"]
+	path = hadamardfunctionfilter
+	url = git@github.com:craigcorvin/hadamardfunctionfilter.git
